@@ -12,7 +12,7 @@ https://codepen.io/Prateekmedy/full/qPqjYr
 #### ScreenShots:
 
 ##### Simon Game
-![Simon Game]()
+![Simon Game](https://gateway.ipfs.io/ipfs/Qmb3qZQoVFF46e14kj4fUfDkooKzrkNyaxRMw2aQtYmSqS/)
 
 ---
 Thanks for taking interest... 😍😁👍
